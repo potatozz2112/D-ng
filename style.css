@@ -1,0 +1,26 @@
+body {
+  font-family: "Times New Roman", serif;
+  margin: 50px;
+}
+table {
+  width: 100%;
+  border: 0;
+}
+.left {
+  text-align: left;
+  font-weight: bold;
+}
+.right {
+  text-align: right;
+  font-weight: bold;
+}
+.underline {
+  text-decoration: underline;
+}
+.center {
+  text-align: center;
+  font-weight: bold;
+}
+.indent {
+  text-indent: 40px; /* thụt đầu dòng */
+}
